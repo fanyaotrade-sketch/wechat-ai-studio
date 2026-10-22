@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix 微信公众号 M/S/I 黄金三联包全流程工作台",
+  "description": "面向微信公众号生态的 M/S/I 黄金三联包全自动策划、去AI味二创撰稿、1080px高密度卡片制图与富文本排版发布工作台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
